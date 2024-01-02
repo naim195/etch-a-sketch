@@ -1,3 +1,3 @@
 # etch-a-sketch
-etch-a-sketch from the odin project
-#my second endeavour in HTML,CSS.
+etch-a-sketch from the odin project.
+My second endeavour in HTML,CSS.
